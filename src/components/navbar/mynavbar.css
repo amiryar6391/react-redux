@@ -1,0 +1,45 @@
+
+nav{
+    height: 75px;
+    background-color: rgb(224, 206, 241);
+    position: sticky;
+    top: 0;
+    
+
+}
+.mainnav{
+   
+   display: flex;
+   justify-content:center;
+   align-items: center;
+
+
+}
+.mainnav p{
+    padding: 5px;
+    margin: 15px 10px;
+
+    background-color: antiquewhite;
+    border-radius: 5px;
+    position: relative;
+}
+.mainnav a{
+    text-decoration: none;
+}
+.homenav{
+    color: #fff;
+}
+.cartnum{
+    width: 25px;
+    height: 25px;  
+    color: #fff;  
+    background-color: black;
+    border-radius: 50px;
+    position: absolute;
+    top: -14px;
+    text-align: center;
+   
+
+
+    
+}
